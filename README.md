@@ -1,19 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World
+# Hello Microverse
 
-> Description the project.
+> This is a simple Hello Microverse project built with HTML & CSS
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -24,7 +20,6 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
 ### Setup
 
@@ -32,15 +27,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/willy836)
 - Twitter: [@twitterhandle](https://twitter.com/Kimiri836)
